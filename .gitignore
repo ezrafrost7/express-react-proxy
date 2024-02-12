@@ -1,0 +1,9 @@
+# Express app
+node_modules/
+dist/
+.env
+
+# React app
+node_modules/
+build/
+.env
